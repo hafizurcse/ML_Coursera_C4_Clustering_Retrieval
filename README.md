@@ -26,3 +26,20 @@ Learning Outcomes:  By the end of this course, you will be able to:
 * Describe the steps of a Gibbs sampler and how to use its output to draw inferences.
 * Compare and contrast initialization techniques for non-convex optimization objectives.
 * Implement these techniques in Python.
+
+![summary1](summary.png)
+## Nearest neighbor search - KD-trees
+![summary2](summary-kd-tree.png)
+## Nearest neighbor search - locality sensitivity hashing
+![summary2](summary-LSH.png)
+
+## Clustering - EM
+![summary3](summary-EM.png)
+![summary4](summary-EM2.png)
+
+## Clustering - Latent Dirichlet allocation
+![summary5](summary-LDA1.png)
+![summary5](summary-LDA2.png)
+![summary5](summary-LDA3.png)
+![summary5](summary-LDA4.png)
+![summary5](summary-LDA5.png)
