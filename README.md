@@ -27,19 +27,24 @@ Learning Outcomes:  By the end of this course, you will be able to:
 * Compare and contrast initialization techniques for non-convex optimization objectives.
 * Implement these techniques in Python.
 
-![summary1](summary.png)
+![summary1](/pics/summary.png)
 ## Nearest neighbor search - KD-trees
-![summary2](summary-kd-tree.png)
+![summary2](/pics/summary-kd-tree.png)
 ## Nearest neighbor search - locality sensitivity hashing
-![summary2](summary-LSH.png)
+![summary2](/pics/summary-LSH.png)
 
 ## Clustering - EM
-![summary3](summary-EM.png)
-![summary4](summary-EM2.png)
+![summary3](/pics/summary-EM.png)
+![summary4](/pics/summary-EM2.png)
 
 ## Clustering - Latent Dirichlet allocation
-![summary5](summary-LDA1.png)
-![summary5](summary-LDA2.png)
-![summary5](summary-LDA3.png)
-![summary5](summary-LDA4.png)
-![summary5](summary-LDA5.png)
+![summary5](/pics/summary-LDA1.png)
+![summary5](/pics/summary-LDA2.png)
+![summary5](/pics/summary-LDA3.png)
+![summary5](/pics/summary-LDA4.png)
+![summary5](/pics/summary-LDA5.png)
+
+---
+#### Thank Emily and Carlos again for preparing this awesome course
+
+![thankyou](/pics/thankyou.png)
